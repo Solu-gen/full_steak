@@ -4,4 +4,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 
 ## Ссылки
-- [Публичная страница на GitHub Pages](https://Solu-gen.github.io/full_steak/)
+- [Публичная страница на GitHub Pages](https://solu-gen.github.io/full_steak/)
